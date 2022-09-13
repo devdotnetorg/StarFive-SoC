@@ -1,2 +1,2 @@
 # StarFive-SoC
- Documentation for StarFive SoCs 
+StarFive SoC Documentation
